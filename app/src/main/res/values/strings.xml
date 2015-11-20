@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SegundaProva</string>
+    <string name="action_settings">Settings</string>
+    <string name="sabor">Sabor</string>
+    <string name="tamanho">Tamanho</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="pedido">Inserir Pedido</string>
+    <string name="listar">Listar Pedidos</string>
+    <string name="title_activity_inserir_pedido">Inserir Pedido</string>
+    <string name="title_activity_listar_pedidos">Listar Pedidos</string>
+    <string name="zero_registros">Nenhum pedido cadastrado!</string>
+    <string name="title_activity_altera_pedido">Alterar Pedido</string>
+    <string name="sucesso">Pedido Cadastrado com Sucesso!</string>
+    <string name="error">Erro ao cadastrar pedido!</string>
+</resources>
